@@ -1,2 +1,2 @@
-# jobcrawler
-Webcrawler that looks for hidden job postings in the source code
+# chunkyspider
+Webcrawler libary using fetch api streams and parses on a chunkbasis for more speed
